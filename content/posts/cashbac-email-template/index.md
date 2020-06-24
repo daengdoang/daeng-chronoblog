@@ -1,5 +1,5 @@
 ---
-title: Full Blog Post Example
+title: Cashbac Email Template
 cover: ./image.jpg
 date: 2019-12-01
 description: All the usual blog post.
